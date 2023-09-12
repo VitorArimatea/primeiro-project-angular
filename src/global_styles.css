@@ -1,0 +1,23 @@
+/* Add application styles & imports to this file! */
+body {
+  background-color: #383838;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: #dd0031;
+  font-family: monospace;
+  font-size: 1.3rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
